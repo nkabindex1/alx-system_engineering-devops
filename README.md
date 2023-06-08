@@ -1,1 +1,1 @@
-Intro to System Engineering Devops
+shell permissions
